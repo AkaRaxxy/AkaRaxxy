@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#⚡ Fun fact: lol
+###⚡ Fun fact: lol
 
 <!--
 **AkaRaxxy/AkaRaxxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
