@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaraxxy)]
+[![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaraxxy&hide=issues,contribs)]
 
 
 
